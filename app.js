@@ -1,28 +1,28 @@
 function initializeApp() {
     const firebaseConfig = {
-        apiKey: "AIzaSyB4AEgSfb2jKlHX-NFnZ9T46dpcXfUxtzA",
-        authDomain: "pruebas-vue-d5853.firebaseapp.com",
-        projectId: "pruebas-vue-d5853",
-        storageBucket: "pruebas-vue-d5853.appspot.com",
-        messagingSenderId: "587859084306",
-        appId: "1:587859084306:web:5d595a3b5ec68ab092c4cb"
+        apiKey: "#####",
+        authDomain: "####",
+        projectId: "#####",
+        storageBucket: "#####",
+        messagingSenderId: "#####",
+        appId: "#####"
     };
 }
 
 //Initialize Cloud Firestore through Firebase
 firebase.initializeApp({
-    apiKey: 'AIzaSyB4AEgSfb2jKlHX-NFnZ9T46dpcXfUxtzA',
-    authDomain: 'pruebas-vue-d5853.firebaseapp.com',
-    projectId: 'pruebas-vue-d5853'
+    apiKey: '######',
+    authDomain: '######',
+    projectId: '####'
 });
 
 const firebaseConfig = {
-    apiKey: "AIzaSyB4AEgSfb2jKlHX-NFnZ9T46dpcXfUxtzA",
-    authDomain: "pruebas-vue-d5853.firebaseapp.com",
-    projectId: "pruebas-vue-d5853",
-    storageBucket: "pruebas-vue-d5853.appspot.com",
-    messagingSenderId: "587859084306",
-    appId: "1:587859084306:web:5d595a3b5ec68ab092c4cb"
+    apiKey: "####",
+    authDomain: "####",
+    projectId: "#####",
+    storageBucket: "#####",
+    messagingSenderId: "#####",
+    appId: "#####"
 };
 
 
